@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsajwan" alt="rajatsajwan" /></a> </p>
 
-- 🌱 I’m currently learning **laravel,php,css,javascript,mysql**
+- 🌱 I’m currently learning **laravel,php,css,javascript,React,mysql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
