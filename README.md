@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsajwan&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsajwan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsajwan" alt="rajatsajwan" /></a> </p>
 
 - 🌱 I’m currently learning **laravel,php,css,javascript,React,mysql**
 
@@ -19,12 +18,14 @@
 
 
 
-# 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- # 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 # 📊GitHub Stats :
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajatsajwan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsajwan&theme=tokyonight" />
+  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=rajatsajwan&show_icons=true&theme=tokyonight" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsajwan&theme=tokyonight" /> -->
 </p>
+<br></br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsajwan" alt="rajatsajwan" /></a> </p>
 
