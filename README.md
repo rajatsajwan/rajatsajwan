@@ -18,7 +18,7 @@
 
 -  A hub-and-spoke platform for organizations to effectively manage their operations and data.
 
-- 	Worked on several core functionalities and building CRUD operations end-to-end for modules like HR etc.
+- 	Worked on several core functionalities and building CRUD operations end-to-end for modules like HR,Invoice etc.
 - 	Technologies – HTML, CSS, PHP, LARAVEL, MYSQL DATABASE.
 
 <h3 align="left">Languages and Tools:</h3>
