@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsajwan&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsajwan" /> </p>
 
 
-- 🌱 I’m currently learning **laravel,php,css,javascript,React,mysql**
+- 🌱 I’m currently learning **laravel,php,css,javascript,React,mysql,Strapi**
 - 📫 How to reach me **rajatsajwan1998@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
