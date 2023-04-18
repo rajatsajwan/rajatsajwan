@@ -38,6 +38,6 @@
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsajwan&theme=tokyonight" /> -->
 </p>
 <p align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsajwan" alt="rajatsajwan" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsajwan" alt="rajatsajwan" /></a> </p> -->
 </p>
 
