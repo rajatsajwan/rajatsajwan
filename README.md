@@ -8,7 +8,8 @@
 
 - 🌱 I'm familier with **laravel,php,css,javascript,React,mysql,Strapi**
 - 📫 How to reach me **rajatsajwan1998@gmail.com**
-- My blog https://medium.com/@rajatsajwan1998/my-journey-in-coloredcow-8706b810f3f5
+- My blog https://medium.com/@rajatsajwan1998
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajat sajwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat sajwan" height="30" width="40" /></a>
