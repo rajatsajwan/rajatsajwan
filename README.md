@@ -31,13 +31,13 @@
 <!-- # 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
-# 📊GitHub Stats :
-<p align="center">
-  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=rajatsajwan&show_icons=true&theme=tokyonight" />
+<!-- # 📊GitHub Stats : -->
+<!--   <p align="center"> -->
+<!--   <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=rajatsajwan&show_icons=true&theme=tokyonight" /> -->
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsajwan&theme=tokyonight" /> -->
-</p>
-<p align="center">
+<!-- </p> -->
+<!-- <p align="center"> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsajwan" alt="rajatsajwan" /></a> </p> -->
-</p>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsajwan&show_icons=true&locale=en&layout=compact" alt="rajatsajwan" /></div>
+<!-- </p> -->
+<!-- <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsajwan&show_icons=true&locale=en&layout=compact" alt="rajatsajwan" /></div> -->
 
